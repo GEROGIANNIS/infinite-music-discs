@@ -6,7 +6,8 @@ A graphical app for adding lots of custom music discs to Minecraft. Creates a re
 Written in Python with a PyQt5 frontend; compiled into runnable binaries with pyinstaller.
 
 ### Supported Systems
-64-bit Windows
+- 64-bit Windows
+- 64-bit Linux
 
 ### How to Install
 Download `imd-gui.zip` from the latest release, under Assets. Extract the .zip to a work folder and run the executable inside. Follow the video instructions at [https://www.youtube.com/watch?v=zDXSKYvJXmg](https://www.youtube.com/watch?v=zDXSKYvJXmg) to generate a datapack/resourcepack pair; the datapack and resourcepack will be created in the same folder as the executable.
